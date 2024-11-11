@@ -1,0 +1,14 @@
+Restaurant Name,Location,Cuisines,Rating,Cost For Two,Online Order,Book Table
+Urban Spice,Chicago,Indian,4,25,Yes,No
+The Food Hub,Dallas,Mexican,3,50,Yes,Yes
+Spicy Corner,Los Angeles,Chinese,5,30,No,Yes
+Skyline Grill,San Antonio,American,4,40,Yes,No
+Ocean View Diner,Boston,Italian,3,20,No,No
+Tasty Bite,Miami,Thai,5,60,Yes,Yes
+Royal Feast,Houston,Indian,2,20,No,No
+Bistro Bliss,New York,Japanese,5,30,Yes,Yes
+Delicious Junction,Los Angeles,Chinese,4,25,Yes,No
+Urban Spice,Chicago,Indian,3,40,Yes,No
+Skyline Grill,Houston,Mexican,4,30,Yes,Yes
+Tasty Bite,Boston,French,5,50,Yes,No
+...
